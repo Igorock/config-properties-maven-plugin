@@ -4,7 +4,7 @@ Config Properties Maven Plugin allows to use properties from typesafe conf files
 
 ## Usage
 
-To use it in Maven clone this project locally, build with `mvn install` and insert the following code in `<plugins>` in `pom.xml` with your `configFile` and optional `configRoot`:
+To use it in Maven clone this project locally, build with `mvn install` and insert the following code in `plugins` in `pom.xml` with your `configFile` and optional `configRoot`:
 
 ```xml
 <plugin>
